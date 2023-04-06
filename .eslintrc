@@ -1,0 +1,6 @@
+{
+  "extends": "vazco/typescript",
+  "rules": {
+    // custom project rules
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "tabWidth": 2,
+  "singleQuote": true,
+  "bracketSameLine": false,
+  "trailingComma": "all",
+  "semi": true,
+  "jsxSingleQuote": true,
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascript",
+    "typescript": "typescript",
+    "html": "HTML"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "ngClass",
+    "classes",
+    "classNames",
+    "styles",
+    "*"
+  ],
+  "tailwindCSS.experimental.classRegex": [".*"]
+}
